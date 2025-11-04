@@ -24,6 +24,6 @@ Tools & Technoogies Used
      2. ER Diagram tools
      3. CSV files for data input
 
-About 
+About :-
 
 This project demonstrates a practical approach to database creation, data managment, and performing analytical queries - useful for understanding real-world data handling in retail management. 
